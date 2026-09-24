@@ -8,13 +8,13 @@ Right now I'm focused on improving my AWS skills and building projects that solv
 
 ### A couple projects I've built
 
-**[Boston Transit Analytics](https://github.com/johnmiller-lovescode/boston-transit-data-pipeline)**
+**[Boston Transit Analytics](https://github.com/johnmiller-cloud/boston-transit-data-pipeline)**
 
 I built a serverless data pipeline that collects MBTA vehicle data, processes it in AWS, and makes it available for analysis and visualization.
 
 The project uses AWS Lambda, S3, Glue, Athena, EventBridge, Terraform, Python, and an interactive Streamlit dashboard.
 
-**[CloudOps Status Dashboard](https://github.com/johnmiller-lovescode/cloudops-status-dashboard)**
+**[CloudOps Status Dashboard](https://github.com/johnmiller-cloud/cloudops-status-dashboard)**
 
 I built and deployed a containerized application on AWS using ECS Fargate, ECR, an Application Load Balancer, CloudWatch, and Terraform.
 
